@@ -104,6 +104,8 @@ A curated list of membership inference papers (more than 100 papers) on machine 
 
 
 
+- [**GateBleed: Exploiting On-Core Accelerator Power Gating for High Performance and Stealthy Attacks on AI**](https://doi.org/10.1145/3725843.3756097) (Kalyanapu et al., 2025) ([code](https://github.com/jkalya/gatebleed))
+
 ## Reconstruction
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
 - [**Privacy in pharmacogenetics: An end-to-end case study of personalized warfarin dosing**](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-fredrikson-privacy.pdf) (Fredrikson et al., 2014)
@@ -172,6 +174,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**On the Inadequacy of Similarity-based Privacy Metrics: Reconstruction Attacks against "Truly Anonymous Synthetic Data"**](https://arxiv.org/abs/2312.05114) (Ganev and De Cristofaro, 2023)
 - [**Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability**](https://ieeexplore.ieee.org/abstract/document/10136179) (Dibbo et al., 2023)
 
+
+- [**FeatureBleed: Inferring Private Enriched Attributes From Sparsity-Optimized AI Accelerators**](https://arxiv.org/abs/2602.18304) (Asher et al., 2026)
 
 ## Property inference / Distribution inference
 - [**Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers**](https://dl.acm.org/doi/10.1504/IJSN.2015.071829) (Ateniese et al., 2015)
