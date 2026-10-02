@@ -254,6 +254,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Model Extraction Attacks Revisited**](https://arxiv.org/abs/2312.05386) (Liang et al., 2023)
 
 
+- [**Thor: A Non-Speculative Value Dependent Timing Side Channel Attack Exploiting Intel AMX**](https://arxiv.org/abs/2502.17658) (Dizani et al., 2025) — Infers neural-network weight sparsity through a value-dependent timing side channel in Intel AMX.
+
 # Other
 - [**Prompts Should not be Seen as Secrets: Systematically Measuring Prompt Extraction Attack Success**](https://arxiv.org/abs/2307.06865)(Zhang et al., 2023)
 - [**Amnesiac Machine Learning**](https://arxiv.org/abs/2010.10981) (Graves et al., 2020)
